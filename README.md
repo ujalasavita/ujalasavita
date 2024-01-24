@@ -22,7 +22,7 @@
 ## 🌐 Connect with me:
 
 <p align="left">
-<a href="" target="_blank"><img align="center" src="images/linkedin.png" alt="linkdin" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ujala-savita-751a7a215/" target="_blank"><img align="center" src="images/linkedin.png" alt="linkdin" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="" target="_blank"><img align="center" src="images/codepen.png" alt="codePpen" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="" target="_blank"><img align="center" src="images/code-sandbox.png" alt="codeSandbox" height="40" width="40" /></a>
 </p>
