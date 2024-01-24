@@ -22,9 +22,9 @@
 ## 🌐 Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/danishkhan424" target="_blank"><img align="center" src="images/linkedin.png" alt="linkedIn-danishkhan424" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://codepen.io/danish_khan_424" target="_blank"><img align="center" src="images/codepen.png" alt="codePpen-danish_khan_424" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://codesandbox.com/danishkhan424" target="_blank"><img align="center" src="images/code-sandbox.png" alt="codeSandbox-danishkhan424" height="40" width="40" /></a>
+<a href="" target="_blank"><img align="center" src="images/linkedin.png" alt="linkdin" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img align="center" src="images/codepen.png" alt="codePpen" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img align="center" src="images/code-sandbox.png" alt="codeSandbox" height="40" width="40" /></a>
 </p>
 <br>
 
