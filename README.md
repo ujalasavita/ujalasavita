@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danish Khan</h1>
+<h1 align="center">Hi 👋, I'm Ujala savita </h1>
 <h3 align="center">An aspiring Full Stack Web Developer👨‍💻 currently studying at Masai School.</h3>
 <h5 align="center">Welcome 🤗 to my GitHub profile!</h5>
 
