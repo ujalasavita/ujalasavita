@@ -14,7 +14,7 @@
 
 📩 Email - **ujalasavita997@gmail.com**
 
-📔 Resume - <a href="file:///G:/My%20Drive/Untitled%20folder/Ujala%20Savita-Frontend%20Developer.pdf" target="_blank">Resume link</a>
+📔 Resume - <a href="g:\My Drive\Untitled folder\Ujala Savita-Frontend Developer.pdf" target="_blank">Resume link</a>
 
 💼 Portfolio - <a href=" target="_blank">Portfolio link</a>
 
